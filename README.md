@@ -1,4 +1,19 @@
-### Hi there 👋
+### :octocat: Hi there 👋 
+## My name is Noelia Irace 😊
+
+Full Stack Software Developer 👩‍💻
+
+## About me
+
+🗺️ Uruguay
+💖 I like to code both individually and collaboratively and to be able to make an idea a reality.
+
+## Technologies
+
+## Social Network
+
+
+
 
 <!--
 **Nosoir/Nosoir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
