@@ -7,6 +7,7 @@ Full Stack Software Developer 👩‍💻
 
 🗺️ Uruguay
 💖 I like to code both individually and collaboratively and to be able to make an idea a reality.
+<!--
 
 ## Technologies
 
@@ -15,7 +16,6 @@ Full Stack Software Developer 👩‍💻
 
 
 
-<!--
 **Nosoir/Nosoir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
